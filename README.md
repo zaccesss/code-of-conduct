@@ -2,7 +2,10 @@
 
 This is the code of conduct for all my projects, software or hardware, public or private. I keep the full version here in one place so every repository can point to it.
 
-I want anywhere I build to be somewhere people can take part without being harassed or belittled, whether they are opening an issue, leaving a comment or sending a change. If you ever need to raise something, reach me privately at contact@isaacadjei.me or through my [contact page](https://isaacadjei.me/contact); I will handle it discreetly.
+I want anywhere I build to be somewhere people can take part without being harassed or belittled, whether they are opening an issue, leaving a comment or sending a change.
+
+> [!NOTE]
+> To report a concern, reach me privately at contact@isaacadjei.me or through my [contact page](https://isaacadjei.me/contact). I will handle it discreetly.
 
 The rest is the Contributor Covenant, the widely used community standard, which I adopt in full.
 
