@@ -1,8 +1,8 @@
 # Code of Conduct
 
-This is the code of conduct for all my projects, software or hardware, public or private. I keep the full version here in one place so every repository can point to it.
+This is the code of conduct for all my projects, software or hardware, public or private, along with [my website](https://isaacadjei.me). I keep the full version here in one place so every repository can point to it.
 
-I want anywhere I build to be somewhere people can take part without being harassed or belittled, whether they are opening an issue, leaving a comment or sending a change.
+I want anywhere I build to be somewhere people can take part without being harassed or belittled, whether they are opening an issue, leaving a comment, sending a change or helping with a hardware build.
 
 > [!NOTE]
 > To report a concern, reach me privately at contact@isaacadjei.me or through my [contact page](https://isaacadjei.me/contact). I will handle it discreetly.
@@ -31,7 +31,7 @@ community include:
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints and experiences
 * Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
+* Accepting responsibility and apologizing to those affected by our mistakes
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall
   community
@@ -56,12 +56,12 @@ or harmful.
 
 Community leaders have the right and responsibility to remove, edit or reject
 comments, commits, code, wiki edits, issues and other contributions that are
-not aligned to this Code of Conduct. They will communicate reasons for moderation
+not aligned to this Code of Conduct and will communicate reasons for moderation
 decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces. It also applies when
+This Code of Conduct applies within all community spaces and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account or acting as an appointed
