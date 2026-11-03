@@ -1,5 +1,8 @@
 # Code of Conduct
 
+[![Markdown Lint](https://github.com/zaccesss/code-of-conduct/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/code-of-conduct/actions/workflows/markdownlint.yml)
+[![Licence: PolyForm Noncommercial](https://img.shields.io/badge/licence-PolyForm%20Noncommercial-green.svg)](LICENSE)
+
 This is the code of conduct for all my projects, software or hardware, public or private, along with [my website](https://isaacadjei.me). I keep the full version here in one place so every repository can point to it.
 
 I want anywhere I build to be somewhere people can take part without being harassed or belittled, whether they are opening an issue, leaving a comment, sending a change or helping with a hardware build.
